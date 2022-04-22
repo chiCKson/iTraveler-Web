@@ -1,4 +1,4 @@
-Django==2.2.24
+Django==2.2.28
 gcloud==0.17.0
 googleapis-common-protos==1.5.6
 gunicorn==19.9.0
